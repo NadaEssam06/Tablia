@@ -1,0 +1,166 @@
+{
+  "menue": [
+    {
+      "id": 1,
+      "name": "Burger",
+      "count": 0,
+      "category": 1,
+      "Price": 25,
+      "isinCart": false
+    },
+    {
+      "id": 2,
+      "name": "Fries",
+      "count": 0,
+      "category": 2,
+      "Price": 15,
+      "isinCart": true
+    },
+    {
+      "id": 3,
+      "name": "Water",
+      "count": 0,
+      "category": 3,
+      "Price": 5,
+      "isinCart": false
+    },
+    {
+      "id": 4,
+      "name": "Burger XL",
+      "count": 0,
+      "category": 1,
+      "Price": 30,
+      "isinCart": false
+    },
+    {
+      "id": 5,
+      "name": "Fries XL",
+      "count": 0,
+      "category": 2,
+      "Price": 20,
+      "isinCart": false
+    },
+    {
+      "id": 6,
+      "name": "Water XL",
+      "count": 0,
+      "category": 3,
+      "Price": 7,
+      "isinCart": false
+    },
+    {
+      "id": 7,
+      "name": "Burger sm",
+      "count": 0,
+      "category": 1,
+      "Price": 15,
+      "isinCart": false
+    },
+    {
+      "id": 8,
+      "name": "Fries sm",
+      "count": 0,
+      "category": 2,
+      "Price": 10,
+      "isinCart": false
+    },
+    {
+      "id": 9,
+      "name": "Water sm",
+      "count": 0,
+      "category": 3,
+      "Price": 2,
+      "isinCart": true
+    },
+    {
+      "id": 10,
+      "name": "Apple Pie",
+      "count": 0,
+      "category": 4,
+      "Price": 20,
+      "isinCart": false
+    },
+    {
+      "id": 11,
+      "name": "Lemon Pie",
+      "count": 0,
+      "category": 4,
+      "Price": 20,
+      "isinCart": false
+    },
+    {
+      "id": 12,
+      "name": "Cookies",
+      "count": 0,
+      "category": 4,
+      "Price": 20,
+      "isinCart": true
+    },
+    {
+      "name": "crinkles fries",
+      "Price": "5",
+      "category": "2",
+      "count": 0,
+      "isinCart": false,
+      "id": 13
+    },
+    {
+      "name": "Tea with milk sm",
+      "Price": "3",
+      "category": "3",
+      "count": 0,
+      "isinCart": false,
+      "id": 14
+    },
+    {
+      "name": "Tea with milk l",
+      "Price": "10",
+      "category": "3",
+      "count": 0,
+      "isinCart": false,
+      "id": 15
+    },
+    {
+      "name": "Coffe l",
+      "Price": "4",
+      "category": "3",
+      "count": 0,
+      "isinCart": false,
+      "id": 16
+    },
+    {
+      "name": "coffe with milk",
+      "Price": "5",
+      "category": "3",
+      "count": 0,
+      "isinCart": false,
+      "id": 17
+    },
+    {
+      "name": "chicken burger",
+      "Price": "15",
+      "category": 1,
+      "count": 0,
+      "isinCart": false,
+      "id": 18
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Burger"
+    },
+    {
+      "id": 2,
+      "name": "Fries"
+    },
+    {
+      "id": 3,
+      "name": "Drink"
+    },
+    {
+      "id": 4,
+      "name": "Dessert"
+    }
+  ]
+}
